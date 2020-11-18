@@ -1,2 +1,2 @@
 # EjerciciodeEntornos
-Es un ejercicio
+Es un ejercicio para aprender como funciona Github
