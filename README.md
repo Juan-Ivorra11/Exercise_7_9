@@ -1,2 +1,2 @@
 # EjerciciodeEntornos
-Es un ejercicio
+Es un ejercicio que estoy haciendo  para comprobar como funciona Git
